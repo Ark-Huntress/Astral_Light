@@ -17,7 +17,7 @@
 >- **1x** green arcade button
 >- **4x** black arcade button
 >- **1x** red arcade button
->- **1x** Arduino méga 2560
+>- **1x** Arduino Mega 2560
 >-   Jumpers
 >- **1x** Arduino speaker
 >- **1x** 12V 3A Power supply
