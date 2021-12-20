@@ -33,4 +33,4 @@
 >- **math.h :**
 
 ## User Documentation
-Our game is intuitive, your goal is to finish the 3 levels as quickly as possible without dying in the time limit (1min15).
+Our game is intuitive, your goal is to finish the 3 levels as quickly as possible without dying in the time limit (1 minute and 15 seconds).
