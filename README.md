@@ -26,9 +26,9 @@
 ### Arduino Librairy
 >- **Adafruit_ILI9341.h :**  library to be installed from the manager of Arduino IDE
 >- **Adafruit_GFX.h :** library to be installed from the manager of Arduino IDE
->- **ILI9341_due_config.h :** library to download and install. [Link](https://github.com/marekburiak/ILI9341_due/blob/master/ILI9341_due_config.h)
+>- **ILI9341_due_config.h :** library to download and install. [Link](https://github.com/marekburiak/ILI9341_due)
 >- **ILI9341_due.h :** library to download and install. [Link](https://github.com/marekburiak/ILI9341_due)
->- **SystemFont5x7.h :** library to download and install. [Link](https://github.com/cjd/DMD/blob/master/SystemFont5x7.h)
+>- **SystemFont5x7.h :** library to download and install. [Link](https://github.com/marekburiak/ILI9341_due)
 >- **SPI.h :**
 >- **math.h :**
 
