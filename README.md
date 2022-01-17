@@ -6,7 +6,7 @@
 >- GALECKI Sarah
 >- **RICHIER Théo**
 >
->- DESBONNE Charles (Passager)
+>- DESBONNE Charles (Did nothing with the project)
 
 ## Required configuration
 
